@@ -1,2 +1,3 @@
-# playlist-merger-public
+# PlaylistMerger
+
 Merge your favourite Spotify playlists easily!
